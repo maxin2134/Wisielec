@@ -1,0 +1,3 @@
+﻿  Wisielec.cpp
+C:\Users\Hitman\source\repos\Wisielec\Wisielec\Wisielec.cpp(11,25): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Wisielec.vcxproj -> C:\Users\Hitman\source\repos\Wisielec\Debug\Wisielec.exe
